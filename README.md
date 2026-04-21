@@ -1,4 +1,4 @@
-# AMOC-climate-variability
+# The Role of the AMOC in Shaping Internal Climate Variability in the CESM
 
 The Role of the AMOC in Shaping Internal Climate Variability in the Community Earth System Model (April 2026)
 
