@@ -2,7 +2,7 @@
 
 The Role of the AMOC in Shaping Internal Climate Variability in the Community Earth System Model (April 2026)
 
-E.J.V. Smolders, Lise Pieper, René M. van Westen and Henk A. Dijkstra
+Emma J.V. Smolders, Lise Pieper, René M. van Westen and Henk A. Dijkstra
 
 These directories contain Python (v3) scripts for plotting/analysing model output.
 
